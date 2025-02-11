@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "user_id": 1,
+        "username": "Me",
+        "content": "Hello",
+        "media": "",
+        "rating": 2,
+        "rating_count": 1,
+        "ratings": {
+            "2": 2
+        },
+        "timestamp": "2025-02-11 09:42:58",
+        "comments": []
+    },
+    {
+        "id": 2,
+        "user_id": 1,
+        "username": "Me",
+        "content": "Angklung",
+        "media": "uploads\/67aaab8fbd757.jpg",
+        "rating": 0,
+        "rating_count": 0,
+        "ratings": [],
+        "timestamp": "2025-02-11 09:44:47",
+        "comments": []
+    },
+    {
+        "id": 3,
+        "user_id": 2,
+        "username": "Tes",
+        "content": "What to post?",
+        "media": "",
+        "rating": 3,
+        "rating_count": 1,
+        "ratings": {
+            "3": 3
+        },
+        "timestamp": "2025-02-11 09:48:15",
+        "comments": []
+    },
+    {
+        "id": 4,
+        "user_id": 3,
+        "username": "User2",
+        "content": "Hmmm....",
+        "media": "",
+        "rating": 5,
+        "rating_count": 1,
+        "ratings": {
+            "2": 5
+        },
+        "timestamp": "2025-02-11 09:48:57",
+        "comments": []
+    }
+]

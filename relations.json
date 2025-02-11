@@ -1,0 +1,19 @@
+{
+    "3": {
+        "blacklist": [],
+        "whitelist": [],
+        "content_blacklist": []
+    },
+    "1": {
+        "content_blacklist": [],
+        "blacklist": [],
+        "whitelist": [
+            2
+        ]
+    },
+    "2": {
+        "content_blacklist": [],
+        "blacklist": [],
+        "whitelist": []
+    }
+}
